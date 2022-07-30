@@ -2,3 +2,4 @@ Welcome to the Growth calculator of Project N.I.N.O.!
 This growth calculator is used to research the playability of a certain design. 
 The calculator will project the most important parameters of growth of the micro organism.
 Fill in the parameters below to find the best biological design for the N.I.N.O.
+Note: parameters need to be changed to see something happening
